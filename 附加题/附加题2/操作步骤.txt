@@ -1,0 +1,1 @@
+先使用LoadPic载入资源图像，然后用gaussianGen函数指定各参数，生成模板，最后将待处理图片和模板代入到colorHomoFilt函数中，输出处理结果。
